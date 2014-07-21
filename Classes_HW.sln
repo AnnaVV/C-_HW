@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User", "User\User.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "Converter\Converter.csproj", "{B4B742C9-DFBD-4B14-9504-01AB25DAD210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMvcAppOnBootstrap", "MyMvcAppOnBootstrap\MyMvcAppOnBootstrap.csproj", "{B8C7A778-AF37-4DA7-86CF-982F16AA02B0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice", "Invoice\Invoice.csproj", "{03649B62-B5F3-4206-A189-CAC1678E9738}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classroom", "Classroom\Classroom.csproj", "{9286E07B-88A6-4E49-AEB6-0F0A8E2D52C9}"

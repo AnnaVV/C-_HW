@@ -1,0 +1,3 @@
+D:\Softheme_Internship\Classes_HW\Classes_HW\bin\Debug\Classes_HW.exe.config
+D:\Softheme_Internship\Classes_HW\Classes_HW\obj\Debug\Classes_HW.exe
+D:\Softheme_Internship\Classes_HW\Classes_HW\obj\Debug\Classes_HW.pdb

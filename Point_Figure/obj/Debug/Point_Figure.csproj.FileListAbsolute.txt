@@ -1,0 +1,6 @@
+D:\Softheme_Internship\Classes_HW\Point_Figure\obj\Debug\Point_Figure.csprojResolveAssemblyReference.cache
+D:\Softheme_Internship\Classes_HW\Point_Figure\bin\Debug\Point_Figure.exe.config
+D:\Softheme_Internship\Classes_HW\Point_Figure\bin\Debug\Point_Figure.exe
+D:\Softheme_Internship\Classes_HW\Point_Figure\bin\Debug\Point_Figure.pdb
+D:\Softheme_Internship\Classes_HW\Point_Figure\obj\Debug\Point_Figure.exe
+D:\Softheme_Internship\Classes_HW\Point_Figure\obj\Debug\Point_Figure.pdb

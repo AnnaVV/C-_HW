@@ -1,0 +1,6 @@
+D:\Softheme_Internship\Classes_HW\Classroom\bin\Debug\Classroom.exe.config
+D:\Softheme_Internship\Classes_HW\Classroom\obj\Debug\Classroom.csprojResolveAssemblyReference.cache
+D:\Softheme_Internship\Classes_HW\Classroom\bin\Debug\Classroom.exe
+D:\Softheme_Internship\Classes_HW\Classroom\bin\Debug\Classroom.pdb
+D:\Softheme_Internship\Classes_HW\Classroom\obj\Debug\Classroom.exe
+D:\Softheme_Internship\Classes_HW\Classroom\obj\Debug\Classroom.pdb

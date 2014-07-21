@@ -1,0 +1,6 @@
+D:\Softheme_Internship\Classes_HW\Invoice\bin\Debug\Invoice.exe.config
+D:\Softheme_Internship\Classes_HW\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+D:\Softheme_Internship\Classes_HW\Invoice\bin\Debug\Invoice.exe
+D:\Softheme_Internship\Classes_HW\Invoice\bin\Debug\Invoice.pdb
+D:\Softheme_Internship\Classes_HW\Invoice\obj\Debug\Invoice.exe
+D:\Softheme_Internship\Classes_HW\Invoice\obj\Debug\Invoice.pdb

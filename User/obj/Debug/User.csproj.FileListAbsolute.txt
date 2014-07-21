@@ -1,0 +1,6 @@
+D:\Softheme_Internship\Classes_HW\User\bin\Debug\User.exe.config
+D:\Softheme_Internship\Classes_HW\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+D:\Softheme_Internship\Classes_HW\User\bin\Debug\User.exe
+D:\Softheme_Internship\Classes_HW\User\bin\Debug\User.pdb
+D:\Softheme_Internship\Classes_HW\User\obj\Debug\User.exe
+D:\Softheme_Internship\Classes_HW\User\obj\Debug\User.pdb
